@@ -1,1 +1,4 @@
-![Image of Aza](/home/dci/Pictures/IMG_20200602_171645.jpg)
+![Image of Aza](..\Azael.jpg)
+
+
+
